@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鯨骨群衆",
+  "base_artist": "揺れるは幽霊",
+  "createdAt": "2025-12-29T01:56:54.716128Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鯨骨群衆",
+      "artist": "揺れるは幽霊",
+      "has_synced": false,
+      "path": "select/pl_01_鯨骨群衆_揺れるは幽霊.txt"
+    }
+  ]
+}
